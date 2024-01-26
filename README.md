@@ -16,3 +16,6 @@ Links úteis sobre FinOps e Well-Architected Framework das três principais clou
 	- [Finops Azure Introduction](https://azure.microsoft.com/pt-br/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
 	
 👨🏽‍🏫 Created by [Diego Lopes](mailto:lopesdiego12@gmail.com)
+
+
+https://th.bing.com/th/id/OIG3.TPxGRlfWbi0vjPkAnYtP?pid=ImgGn
