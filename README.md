@@ -19,3 +19,5 @@ Links úteis sobre FinOps e Well-Architected Framework das três principais clou
 
 
 https://th.bing.com/th/id/OIG3.TPxGRlfWbi0vjPkAnYtP?pid=ImgGn
+https://th.bing.com/th/id/OIG1.sCqChrDb_dvyDlg2qpG1?pid=ImgGn
+https://copilot.microsoft.com/images/create/a-4d-image-of-mario-bros-cleaning-very-dirty-pipes/1-65b3bf9902b04c1086af0cbdf59dde79?id=zzSDxS7C0vMwg%2bPvh1YvDA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC
